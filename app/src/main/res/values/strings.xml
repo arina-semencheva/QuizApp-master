@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Оксфордский опросник счастья (OHI)</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">Опросы</string>
+    <string name="ranking">Результаты</string>
+    <string name="category_name">Category Name</string>
+    <string name="this_is_ranking_page">This is Ranking page</string>
+    <string name="play">PLAY</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_done">Done</string>
+    <string name="_0">0</string>
+    <string name="_1_10">1/10</string>
+    <string name="answer_a">Answer A</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="answer_d">Answer D</string>
+</resources>

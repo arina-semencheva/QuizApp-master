@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/p2"
+    tools:context=".Start"
+    >
+
+    <android.support.v7.widget.CardView
+        android:layout_width="310sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="30dp">
+
+        <Button
+            android:id="@+id/btnPlay"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ef753d"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:text="начать тест"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:theme="@style/MyButton" />
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>
